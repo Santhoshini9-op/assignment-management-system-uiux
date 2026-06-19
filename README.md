@@ -103,7 +103,7 @@ Teacher Login
 ## Project Preview
 
 ### Student Dashboard
-(Add Screenshot)
+Screenshot 2026-06-19 191027.png
 
 ### View Assignments Screen
 (Add Screenshot)
