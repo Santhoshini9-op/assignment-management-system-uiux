@@ -103,27 +103,26 @@ Teacher Login
 ## Project Preview
 
 ### Student Dashboard
-Screenshot 2026-06-19 191027.png
+Screenshot 2026-06-17 183215.png
 
 ### View Assignments Screen
-(Add Screenshot)
+Screenshot 2026-06-19 191042.png
 
 ### Assignment Details Screen
-(Add Screenshot)
+Screenshot 2026-06-19 191048.png
 
 ### Teacher Dashboard
-(Add Screenshot)
+Screenshot 2026-06-19 191058.png
 
 ### Create Assignment Screen
-(Add Screenshot)
-
+Screenshot 2026-06-19 191027.png
 ---
 
 ## Figma Prototype
 
 Add your Figma link here:
 
-[View Figma Prototype](PASTE_YOUR_FIGMA_LINK_HERE)
+[View Figma Prototype](PASTE_YOUR_FIGMA_LINK_HERE)https://www.figma.com/design/jfpVBQQrpMoo208zNy9qKd/Untitled?node-id=0-1&t=KsOd7AGDSf0pjj0t-1
 
 ---
 
